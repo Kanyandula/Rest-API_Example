@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RestApi</string>
+    <string name="image_example">image example</string>
+
+    <string name="like">Like:</string>
+    <string name="creator_name">Creator Name</string>
+    <string name="likes">Likes:</string>
+</resources>
